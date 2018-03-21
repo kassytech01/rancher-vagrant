@@ -45,7 +45,7 @@ http://rancher.com/docs/rancher/v1.6/en/hosts/
 
 ### プライベートカタログ
 
-https://www.https://www.slideshare.net/m-daichang/rancher-composeslideshare.net/m-daichang/rancher-composehttps://www.slideshare.net/m-daichang/rancher-compose
+https://www.slideshare.net/m-daichang/rancher-compose
 
 ⇒docker-compose.ymlでどうやってStackを作るか？
 
